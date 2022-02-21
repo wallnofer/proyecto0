@@ -186,7 +186,7 @@ h1:hover {
     -ms-grid-row: 1;
     grid-row: 1/1;
     background-color: chocolate;
-    background-image: url(../multimedia/imagenes/img4.jpg);
+    background-image: url(/multimedia/imagenes/img4.jpg);
     background-size: cover;
     background-position: center;
   }
@@ -198,7 +198,7 @@ h1:hover {
     -ms-grid-row-span: 1;
     grid-row: 1/2;
     background-color: chartreuse;
-    background-image: url(../multimedia/imagenes/img2.jpg);
+    background-image: url(multimedia/imagenes/img2.jpg);
     background-size: cover;
     background-position: bottom;
   }
@@ -311,7 +311,7 @@ h1:hover {
     -ms-grid-row: 8;
     -ms-grid-row-span: 3;
     grid-row: 8/11;
-    background-color: orange;
+    background-color: #FF4500;
     background-image: url(../multimedia/imagenes/img12.jpg);
     background-size: cover;
     background-position: center;
