@@ -198,7 +198,7 @@ h1:hover {
     -ms-grid-row-span: 1;
     grid-row: 1/2;
     background-color: chartreuse;
-    background-image: url(multimedia/imagenes/img2.jpg);
+    background-image: url(/multimedia/imagenes/img2.jpg);
     background-size: cover;
     background-position: bottom;
   }
