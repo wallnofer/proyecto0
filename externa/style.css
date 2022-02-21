@@ -31,41 +31,7 @@ h2
      font-family: 'Nosifer', cursive;
  }
 
- .menu{
-    float: right;
-    line-height: 20px ;
-    width: 680px;
-  }
-     .menu ul{
-      display: flex;
-      list-style: none;
-  }
-     .menu a{
-     display: block;   
-     padding: 0px 15px;
-     text-decoration: none;
-     color: chartreuse;
-     border-width: 2px;
-     border-style: solid;
-     border-color: chartreuse;
-     margin-left: 5px;
-     margin-right: 5px;
-     margin-top: 5px;
-  }
-.menu a:hover{
-     background-color: royalblue;
-     display: block;
-   }
 
- .caja {
-
-    display: flex;
-    justify-content: space-around;
-    align-items: flex-start; 
-    flex-shrink: unset;
-    flex-wrap: wrap-reverse;
-      
-}
 
 header{
     height: 150vh;
@@ -85,9 +51,9 @@ header p {
     justify-content: space-around;
     align-items: flex-start; 
     flex-shrink: unset;
-    flex-wrap: wrap-reverse;
       
 }
+
 .caja1 {
     display: flex;
     justify-content: space-evenly;
