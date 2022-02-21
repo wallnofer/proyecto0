@@ -36,7 +36,7 @@ h2
 header{
     height: 150vh;
     width: 100%;
-    background-image: url(/multimedia/imagenes/skateparport.jpg);
+    background-image: url(./multimedia/imagenes/skateparport.jpg);
     background-size: cover;
 }
 header p {
@@ -94,7 +94,7 @@ form {background-color: palegoldenrod;}
 
 .numeros ul li{
 margin: 15px 30px;
-list-style-image: url(/multimedia/imagenes/skate.jpg);
+list-style-image: url(./multimedia/imagenes/skate.jpg);
 
 }
 form{
