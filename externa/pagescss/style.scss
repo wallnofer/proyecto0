@@ -233,30 +233,6 @@ h1:hover{
         background-position: center;
     }
 }
-nav {
-    float: right;
-    line-height: 20px ;
-    width: 680px;
-}
-nav ul{
-    display: flex;
-    list-style: none;
-}
-nav ul li a{
-    display: block;   
-    padding: 0px 15px;
-    text-decoration: none;
-    color: rgb(167, 247, 6);
-    border-width: 2px;
-    border-style: solid;
-    border-color: rgb(125, 237, 13);
-    margin-left: 5px;
-    margin-right: 5px;
-    margin-top: 5px;
-}
-nav ul li a:hover{
-    background-color: rgb(225, 65, 206);
-}
 
 .local {
     height: 300px;
