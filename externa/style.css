@@ -36,7 +36,7 @@ h2
 header{
     height: 150vh;
     width: 100%;
-    background-image: url(./multimedia/imagenes/skateparport.jpg);
+    background-image: url(../multimedia/imagenes/skateparport.jpg);
     background-size: cover;
 }
 header p {
